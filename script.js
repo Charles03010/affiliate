@@ -1,5 +1,5 @@
 // Mendapatkan data dari data.json dan menampilkannya di halaman
-fetch('data.json')
+fetch('https://raw.githubusercontent.com/Charles03010/affiliate/refs/heads/main/data.json')
     .then(response => response.json())
     .then(data => {
         const linkContainer = document.getElementById('link-container');
