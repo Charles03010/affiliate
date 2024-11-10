@@ -1,0 +1,17 @@
+[
+    {
+        "nama": "Google",
+        "deskripsi": "Mesin pencari terbesar di dunia.",
+        "link": "https://www.google.com"
+    },
+    {
+        "nama": "YouTube",
+        "deskripsi": "Platform berbagi video.",
+        "link": "https://www.youtube.com"
+    },
+    {
+        "nama": "Facebook",
+        "deskripsi": "Situs jejaring sosial.",
+        "link": "https://www.facebook.com"
+    }
+]
